@@ -1,0 +1,2 @@
+# HocPython
+To learn python
